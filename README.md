@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Dawid Spisak</h1>
  <h3 align="center">A passionate frontend web developer.</h3>
  <ul>
- <li>🌱 I’m currently learning Node.js</li>
+ <li>🌱 I’m currently learning Web 3.0</li>
  <br />
-<li>👨🏻‍💻 Currently working on MERN, Firebase</li>
+<li>👨🏻‍💻 Currently working on NextJS and React Native</li>
 <br />
 <li>📫 Mail me at dawidspisak@gmail.com</li>
 
