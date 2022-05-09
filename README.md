@@ -17,17 +17,17 @@
 <h3>
 Connect with me:</h3>
 <p align="left">
-<a style="margin-right: 20px;" href="https://www.facebook.com/profile.php?id=100011721724719" rel="nofollow"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384005.png" alt="dawid_spisak" height="40" style="max-width:100%;"></a>
-<a href="https://www.linkedin.com/in/dawid-spisak-a62751198/" rel="nofollow"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384014.png" alt="dawid_spisak" height="40" style="max-width:100%;"></a>
-<a href="https://www.instagram.com/dawidspisak/" rel="nofollow"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384015.png" alt="dawid_spisak" height="40" style="max-width:100%;"></a>
+<a style="margin-right: 20px;" href="https://www.facebook.com/profile.php?id=100011721724719" rel="nofollow"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="dawid_spisak" height="40" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/dawid-spisak-a62751198/" rel="nofollow"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360" alt="dawid_spisak" height="40" style="max-width:100%;"></a>
+<a href="https://www.instagram.com/dawidspisak/" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" alt="dawid_spisak" height="40" style="max-width:100%;"></a>
 </p>
 
 <h3>Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.w3schools.com/html/" rel="nofollow"> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="html5" width="40" height="40" style="max-width:100%;"> </a>
-<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://image.flaticon.com/icons/png/512/732/732190.png" alt="css3" width="40" height="40" style="max-width:100%;"> </a>
+<a href="https://www.w3schools.com/html/" rel="nofollow"> <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png" alt="html5" width="40" height="40" style="max-width:100%;"> </a>
+<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://blog.artmetic.pl/wp-content/uploads/2019/04/css.png" alt="css3" width="40" height="40" style="max-width:100%;"> </a>
 <a href="https://developer.mozilla.org/pl/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" style="max-width:100%;"> </a>
-<a href="https://reactjs.org/" rel="nofollow"> <img src="https://image.flaticon.com/icons/png/512/1126/1126012.png" alt="react" width="40" height="40" style="max-width:100%;"> </a>
+<a href="https://reactjs.org/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="react" width="40" height="40" style="max-width:100%;"> </a>
  <a href="https://nextjs.org/" rel="nofollow"> <img src="https://docs.microsoft.com/pl-pl/windows/images/nextjs-logo.png" alt="next" width="40" height="40" style="max-width:100%;"> </a>
 <a href="https://redux.js.org/ " rel="nofollow"> <img src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" alt="redux" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width:100%;"> </a>
 <a href="https://firebase.google.com/" rel="nofollow"> <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width:100%;"> </a>
